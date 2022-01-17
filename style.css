@@ -1,6 +1,10 @@
-.block1 {
-	color: red;
+.eee {
+	font-size: 20px;
 }
-.block2 {
-	color: green;
+.zzz {
+	font-size: 30px;
+}
+.eee, .zzz {
+	line-height: 1.5;
+	font-family: Arial;
 }
