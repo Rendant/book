@@ -1,9 +1,9 @@
-.gigasuccess {
-	color:#61de2a;
+#elem1 {
+	color: red
 }
-.omegaitalic {
-	font-style: italic
-	}
-.verylarge {
-	font-size: 50px;
+#elem2 {
+	color: green
+}
+#elem3 {
+	color: blue
 }
