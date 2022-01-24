@@ -1,7 +1,7 @@
-#block a.zzz {
+.block a.zzz {
 	color: red;
 }
-#block a.zzz:hover {
+.block a.zzz:hover {
 	text-decoration: none;
 }
-/*выбирает ссылки с классом zzz находящийся в объекте с id block и если навести мышь убирает подчёркивание*/
+/*выбирает ссылку с классом zzz в объекте с классом block и при наведении мыши подчёркивание убирается*/
