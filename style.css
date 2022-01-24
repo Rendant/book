@@ -1,8 +1,3 @@
-li {
-	border: 1px solid red;
-	width: 100px;
-}
-li:empty {
-	border: 1px solid blue;
-	width: 100px;
+li:first-of-type, li:last-of-type {
+	color:red;
 }
