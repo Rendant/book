@@ -1,3 +1,3 @@
-li:nth-of-type(2), li:nth-last-of-type(2) {
+li:only-of-type {
 	color:red;
 }
