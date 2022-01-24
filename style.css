@@ -1,7 +1,3 @@
-.block a.zzz {
-	color: red;
+li:first-child {
+	color:red;
 }
-.block a.zzz:hover {
-	text-decoration: none;
-}
-/*выбирает ссылку с классом zzz в объекте с классом block и при наведении мыши подчёркивание убирается*/
