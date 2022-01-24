@@ -1,3 +1,3 @@
-.bbb.zzz.xxx {
-	color: red; /*выбирает элементы с классами bbb zzz xxx одновременно*/
+.bbb .zzz.xxx {
+	color: red; /*ищет элементы с классами zzz xxx в объекте с классом bbb*/
 }
