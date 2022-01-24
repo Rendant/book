@@ -1,12 +1,9 @@
-.success {
-	color: green;
+.gigasuccess {
+	color:#61de2a;
 }
-.error {
-	color: red;
-}
-.large {
-	font-size: 30px;
-}
-.small {
-	font-size: 20px;
+.omegaitalic {
+	font-style: italic
+	}
+.verylarge {
+	font-size: 50px;
 }
