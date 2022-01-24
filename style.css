@@ -1,3 +1,3 @@
-h2.bbb.zzz {
-	color: red; /*объекты h2 с классами bbb и zzz*/
+#elem.bbb {
+	color: red; /*выберет элементы класса bbb в id elem*/
 }
