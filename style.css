@@ -2,5 +2,13 @@
 	border: 1px solid red;
 	width: 300px;
 	text-align: justify;
-	padding: 30px;
+	padding: 9px;
+	margin-left:50px;
+	margin-top: 30px;
+}
+#elem2 {
+	border: 1px solid green;
+	width: 500px;
+	text-align: justify;
+	padding: 20px;	
 }
