@@ -1,11 +1,18 @@
-#parent{
+#granpa{
 	width:300px;
 	height: 300px;
 	border:1px dashed blue;
 }
-#child{
+#parent{
 	width: 150px;
 	height: 150px;
-	border: 1px solid orange;
+	border: 1px dashed green;
 	margin: 75px;
+}
+
+#child{
+	width: 75px;
+	height: 75px;
+	border: 1px solid red;
+	margin: 35px;
 }
