@@ -1,3 +1,11 @@
-ol {
-	list-style-type: upper-alpha;
+.parent {
+	padding: 10px 0;
+	border: 1px solid red;
+	text-align: center;
+}
+.child {
+	padding: 10px;
+	border: 1px solid green;
+	margin: 0 5px;
+	display: inline-block;
 }
