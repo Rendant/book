@@ -2,6 +2,7 @@
 	display: inline-flex; /* потомки будут флекс элементами */
 	border: 1px solid red;
 	width: 600px;
+	padding: 20px;
 }
 .child {
 	width: 100px;
