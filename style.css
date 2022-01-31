@@ -1,5 +1,11 @@
 #elem {
-	width: 3000px;
-	height:200px;
-	background-image:url("bg.png");
+	background-position: top right;
+	background-image:url("bg.png");	
+	background-size: auto;
+	background-attachment: fixed;
+	border: 1px solid black;
+	width-border: 1000px;
+	height-border:600px; 
+	background-clip: padding-box;
+	background-origin:padding-box;
 }
