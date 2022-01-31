@@ -1,3 +1,8 @@
-ol {
-	list-style-type: upper-alpha;
+#elem {
+	width: 100px;
+	height: 100px;
+	background: #f1f1f1;
+	padding: 25px;
+	border: 15px solid red;
+	box-sizing: border-box;
 }
