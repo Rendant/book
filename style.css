@@ -1,3 +1,21 @@
-ol {
-	list-style-type: upper-alpha;
+div {
+	width: 700px;
+	border: 1px solid #000;
+	text-align: justify;
+	display: flex;
+}
+p {
+ margin: 30px;
+}
+#i1 {
+	float: left;
+	width: 200px;
+	height: 200px;
+	margin: 20px;
+}
+#i2 {
+	float: right;
+	width: 200px;
+	height: 200px;
+	margin: 20px;
 }
