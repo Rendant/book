@@ -4,13 +4,25 @@
 	height: 400px;
 	margin: 0 auto;
 	border: 1px solid green;
+	background-color: green;
 }
-#child {
+#child1 {
 	position: absolute;
 	top: 90px;
 	left: 90px;
 
 	width: 100px;
 	height: 100px;
-	border: 1px solid red;
+	border: 1px solid green;
+	background-color: #fff;
+}
+#child2 {
+	position: absolute;
+	bottom: 90px;
+	right: 90px;
+
+	width: 100px;
+	height: 100px;
+	border: 1px solid green;
+	background-color: #fff;
 }
