@@ -1,41 +1,61 @@
 #wrapper {
 	width: 800px;
-	margin: 50px auto;
-	border: 1px solid #000;
+	margin: 50px auto 20px;
+	border: 1px solid #FC9D00;
 }
 #menu {
 	display: flex;
 	justify-content: flex-start;
 	margin-bottom: 20px;
-	background-color: #484848;
+	background-color: #FC9D00;
 }
 #menu a {
 	display: flex;
 	justify-content: center;
-	padding: 10px 20px;
+	padding: 20px 25px;
 	font: bold 14px arial;
 	text-decoration: none;
 	color: #ffffff;
 }
 #menu a:hover, #menu a.active {
-	color: #484848;
+	color: #FC9D00;
 	background-color: #fff;
 }
 #content {
 	padding: 0 7px 0;
+	text-indent: 7%;
+	color: #CC8000;
 }
 #content h1 {
+	text-align: center;
+}
+#content h2 {
 	text-align: center;
 }
 #content p {
 	font: 16px;
 	padding: 0 2px;
+	line-height: 30px;
 }
 #content p a {
-	text-decoration: none;
-	color: blue;
+	text-decoration: underline;
+	color: #CC8000;
 }
 #content p a:hover {
+	text-decoration: none;
+	color: black;
+}
+#footer {
+	display: flex;
+	justify-content: center;
+	margin-right: 10px;
+}
+#footer a {
+	text-decoration: none;
+	color: #CC8000;
+	margin-right: 15px;
+}
+#footer a:hover {
 	text-decoration: underline;
-	color: green;
+	color: black;	
 }
