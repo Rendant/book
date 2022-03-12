@@ -1,10 +1,8 @@
 #menu {
 	display: flex;
-	flex-direction: column;
 }
 #menu a {
 	width: 100px;
-	margin-top: 5px;
 	padding: 15px;
 	font: 15px Arial;
 	text-decoration: none;
@@ -13,7 +11,6 @@
 	background-color: #16A177;
 }
 #menu a:hover, #menu a.active {
-	color: #16A177;
-	background-color: #fff;
-
+	background-color: #16785C;
+	border: 1px solid #16785C;
 }
