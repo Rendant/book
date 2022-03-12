@@ -11,3 +11,6 @@
 	height: 50px;
 	border: 1px solid green;
 }
+.elem {
+	align-self: flex-end;
+}
