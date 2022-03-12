@@ -1,6 +1,6 @@
 .parent {
 	display: flex;
-	height: 300px;
+	height: 400px;
 	flex-direction: row;
 	justify-content: center;
 	align-items: center;
