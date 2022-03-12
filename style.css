@@ -1,9 +1,9 @@
 .parent {
 	display: flex;
 	height: 300px;
-	flex-direction: column;
+	flex-direction: row;
 	justify-content: space-between;
-	align-items: flex-start;
+	align-items: flex-end;
 	border: 1px solid red;
 }
 .child {
